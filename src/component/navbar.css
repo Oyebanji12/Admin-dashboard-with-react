@@ -1,0 +1,51 @@
+.nav-wrapper{
+    width: 58vw;
+    
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+  
+  }
+  
+  .flex-item{
+    display: flex;
+    align-items: center;
+    list-style-type: none; 
+    cursor: pointer;
+  }
+  .flex-child{
+    margin: 0.6rem;
+    color: #383352;
+    font-size: 0.9rem;
+  }
+  .logo{
+    color: #242D52;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+  .btn{
+    background-color: #F25F3A;
+    color: white;
+    border-radius: 2rem;
+    font-size: 0.78rem;
+    border: none;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer
+  }
+  .btn:hover{
+    background-color: #242D52;
+    transition: 0.7s;
+  }
+  .btn-container{
+    display: flex;
+    align-items: center;
+  } 

@@ -1,0 +1,92 @@
+.container{
+    
+    background-color: #ffff;
+    width: 20vw;    
+}
+
+
+.card-1{
+    border: 1px solid #f5f5f5;
+    
+}
+.div-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 5%
+    
+}
+.text-user-icon{
+    margin-top: -7%;
+    color: #4b4b4b;
+}
+.arrow-dropdown-arrow{
+    margin-top: -15%;
+    margin-left: 20%;
+    color: #4b4b4b;
+}
+.user-icon{
+    margin-top: 8%;
+    margin-left: 6%;
+    color: #4b4b4b;
+}
+.text-under-user-icon{
+    margin-left: 6%;
+    font-size: 10px;
+    color: #4b4b4b;
+}
+.card-2{
+    border: 1px solid #f5f5f5;   
+}
+.heading{
+    margin-left: 4%;
+    color: #cecece;
+    font-size: 8px;
+
+}
+
+.card-3{
+    
+    border: 1px solid #f5f5f5;
+}
+.card-4{
+    
+    border: 1px solid #f5f5f5;
+}
+.card-5{
+    
+    border: 1px solid #f5f5f5;
+}
+.card-6{
+    
+    border: 1px solid #f5f5f5;
+}
+
+
+
+.div-for-text-and-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.home-icon{
+    margin-left: 8%;
+    color: #666666;
+}
+.home-text{
+    margin-left: 5%;
+    color: #909090;
+    font-size: 8px;
+}
+.icon{
+    margin-left: 8%;
+    color: #666666;
+    
+}
+.icon-text{
+    margin-left: 5%;
+    color: #909090;
+    font-size: 8px;
+    
+}
